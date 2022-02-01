@@ -1,0 +1,105 @@
+.top{
+  background-color: #e0ebe8;
+  position: relative;
+  padding: 100px;
+}
+body{
+  margin: auto;
+  text-align: center;
+font-family: Trebuchet MS, sans-serif;
+}
+h1{
+font-size: 562.5%;
+  margin:50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+color: #66BFBF;
+line-height: 50px;
+}
+h2{
+  color: #66BFBF;
+  font-size:2.5rem;
+font-family: Trebuchet MS, sans-serif;
+font-weight: normal;
+}
+.bot-cloud{
+  position: absolute;
+  left: 300px;
+  top: 350px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 280px;
+}
+.profile{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+h3{
+  color: #11999E;
+
+}
+a{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+.food{
+  width: 25% ;
+  float:right;
+  margin-left: 30px;
+}
+.middle-container{
+  background-color: #fff;
+}
+.pro{
+width: 35%;
+margin:100px auto  auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 30px;
+  margin-bottom: 10px;
+
+}
+.contact-me{
+  line-height: 2;
+}
+.btn{
+  background-color:#11cdd4;
+border-radius: 28px;
+padding: 5px 20px 5px 20px;
+ font-family:Trebuchet MS, sans-serif;
+ text-decoration: none;
+}
+.btn:hover{
+  background-color: #2bc4ad;
+}
+.footer-link{
+  padding: 20px;
+  text-decoration:none;
+  font-family: Trebuchet MS, sans-serif;
+}
+a:hover{
+  color:grey;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  height: 0;
+  border-width: 5px;
+  border-color: grey;
+}
+.pd{
+  padding: 20px;
+}
